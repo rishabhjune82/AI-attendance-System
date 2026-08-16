@@ -1,4 +1,4 @@
-# AI-attendance-System
+# AI Based Smart Attendance Monitoring System
 AI-powered smart attendance system using Python, Streamlit, OpenCV, and face recognition to automatically identify students and record attendance.
 AI-Based Smart Attendance Monitoring System is an intelligent attendance management application developed using Python, Streamlit, OpenCV, and Face Recognition.
 
